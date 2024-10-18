@@ -11,3 +11,4 @@ A simple website that provides a recipes of different dish, and allows user to v
 * Use of git and writing good commits
 
 ## Live Demo
+https://diwakarstha997.github.io/odin-recipes/
