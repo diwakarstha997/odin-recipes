@@ -25,6 +25,10 @@ body {
     font-size: 24px;
 }
 
+.recipe-list a {
+    display: block;
+}
+
 p {
     font-size: 18px;
 }
